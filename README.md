@@ -18,7 +18,8 @@ Twitter: https://twitter.com/juliasilge <br>
 ## About the meetup
 Modeling and machine learning in R involve a bewildering array of heterogeneous packages, and establishing good statistical practice is challenging in any language. The tidymodels collection of packages offers a consistent, flexible framework for your modeling and machine learning work to address these problems. In this talk, speaker Julia Silge will focus on three specific reasons to consider using [tidymodels](https://www.tidymodels.org/). She will start with model characteristics themselves, move to the wise management of your data budget, and finish with feature engineering.
 
-Check out tidymodels here: https://www.tidymodels.org/
+- Check out tidymodels here: https://www.tidymodels.org/
+- Check out the slides for this meetup here: https://juliasilge.github.io/r-ladies-east-lansing/
 
 ## About RLEL
 R-Ladies East Lansing (RLEL) is a chapter of [R-Ladies Global](//rladies.org), an organization whose mission is to promote gender diversity in the R programming community. All genders are welcome at RLEL meetups, and participants must follow the R-Ladies [code of conduct](https://guide.rladies.org/about/coc/). 
